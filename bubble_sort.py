@@ -1,3 +1,6 @@
+# Author: SolarCoder
+# Instagram | @solarcoder
+
 array = [1, 6, 3, 4, 2, 8]
 
 def bubble_sort(array):
